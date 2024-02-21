@@ -1,10 +1,4 @@
-# Fraunhofer-Lines
-## Aim
-To study the spectrum of the sun using a spectroscope and computational tools, and determine the
-temperature of the sun using the data.
-
-## Theory
-### Thermal Radiation
+## Thermal Radiation
 Thermal radiation is the process of converting thermal energy into electromagnetic energy. This
 occurs when the atoms and molecules in an object, which are arranged in a lattice structure, collide
 with each other, resulting in acceleration and deceleration and the emission of electromagnetic
@@ -13,7 +7,7 @@ and the more frequent the collisions, leading to a continuous spectrum of light.
 note that objects at the same temperature emit the same spectrum of light, with identical intensities
 across different wavelengths.
 
-### Black Body Radiation and Wien’s Displacement Law
+## Black Body Radiation and Wien’s Displacement Law
 A black body is an idealised object that absorbs all electromagnetic radiation, emitting it as black
 body radiation (essentially electromagnetic radiation) when at thermal equilibrium. At room temperature, it appears black as most of the energy it emits is in the invisible infrared range. As its temperature increases, its colour changes from dull red to bluish white, with the peak wavelength of its spectrum moving towards the blue end of the spectrum. The black body spectrum was experimentally known, but classical physics could not accurately explain its form. Therefore, Max Planck introduced a formula that explained that energy was absorbed or emitted in discrete energy packets or quanta –
 
@@ -27,7 +21,7 @@ where b is Wein’s displacement constant ($2.89777 \text{ × } 10^{−3}$ m/K).
 photons that make up the radiation, which is why it is commonly said that the CMB radiation has
 a temperature of 2.73 K.
 
-### Fraunhofer Lines
+## Fraunhofer Lines
 Fraunhofer lines are a set of dark lines observed in the spectrum of the sun or other stars. This is caused by the absorption of specific wavelengths of light by elements in the outer layers of the sun’s atmosphere. Each element absorbs light at specific wavelengths, and this results in a pattern of dark lines in the spectrum of the star. These lines can be used to identify the elements present in the star’s atmosphere and how relatively abundant they are. By analysing the spectrum of a star, astronomers can gain insights into its composition and temperature. The study of Fraunhofer lines is a very useful tool in astronomy, and has played a critical role in the understanding of our universe.
 
 ### Apparatus
